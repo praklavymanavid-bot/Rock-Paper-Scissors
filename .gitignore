@@ -1,0 +1,13 @@
+[Unity] 
+Temp/ 
+Library/ 
+Logs/ 
+Obj/ 
+Build/ 
+Builds/ 
+UserSettings/ 
+Recordings/ 
+.vs/ 
+*.csproj 
+*.sln 
+*.vsconfig 
